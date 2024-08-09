@@ -5,8 +5,11 @@ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
 Key Responsibilities and Achievements:
 
 Data Cleaning: Imported the dataset and performed extensive data cleaning, including handling missing values, removing duplicates, and converting data types to ensure data integrity.
+
 Data Manipulation: Created new variables such as car age and transformed data to facilitate meaningful analysis.
+
 Exploratory Data Analysis (EDA): Conducted EDA to summarize the main characteristics of the data using descriptive statistics and visualizations.
+
 Visualization: Utilized Matplotlib and Seaborn to create informative visualizations including histograms, box plots, scatter plots, and heatmaps to uncover patterns and trends.
 
 Data Insights :
